@@ -191,21 +191,3 @@ function showStatus() {
       stayButton.style.display = 'none';
     }
 }
-
-// const elementVisibility = Object.freeze({
-//   'none':0, 
-//   'block':1, 
-//   'inline':2
-// });
-
-// function hideElement(element) {
-//   element.style.display = elementVisibility.none;
-// }
-
-// function showElement(element, elementVisibility) {
-//   element.style.display = elementVisibility;
-// }
-
-// function setElementVisibility(element, visibility) {
-//   element.style.display = visibility;
-// }
